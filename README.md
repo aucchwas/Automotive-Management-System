@@ -28,7 +28,8 @@ To get a local copy up and running follow these simple steps.
    ```sh
    git clone https://github.com/aucchwas/Automotive-Management-System.git
     
-Open the solution file (.sln) in Visual Studio.
-Restore any NuGet packages if prompted.
-Build the project to resolve any dependencies.
-Run the project by pressing F5 or clicking on the "Start" button in Visual Studio.
+### Runing the application 
+1. Open the solution file (.sln) in Visual Studio.
+2. Restore any NuGet packages if prompted.
+3. Build the project to resolve any dependencies.
+4. Run the project by pressing F5 or clicking on the "Start" button in Visual Studio.
